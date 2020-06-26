@@ -1,0 +1,1 @@
+include ':app', ':jsoup-1.13.1', ':common-lang3', ':commons-io-2.6', ':lucene-core-3.6.2', ':lucene-snowball-3.0.2', ':sqlite-jdbc-3.30.1'

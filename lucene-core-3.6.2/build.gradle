@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('lucene-core-3.6.2.jar'))

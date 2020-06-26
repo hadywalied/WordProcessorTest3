@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('lucene-snowball-3.0.2.jar'))
